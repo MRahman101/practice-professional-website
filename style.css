@@ -2,6 +2,16 @@ html, body {
   height: 100%;
   width: 100%;
 }
-#slogan {
+p1 {
   text-align: center;
+}
+body {
+  background-color: 
+}
+h1 {
+  color: blue;
+}
+img {
+  height: 330px;
+  width: auto;
 }
